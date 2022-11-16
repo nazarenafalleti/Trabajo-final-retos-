@@ -27,7 +27,21 @@
     border-radius: 5px;
 }
 
+@keyframes mover {
+    0%{
+     left:0%;
+        
+    }
+    50%{
+        left:90%;
+    }
+    100%{
+        left:0%;
+    }
 
+
+
+}
 
 
 
